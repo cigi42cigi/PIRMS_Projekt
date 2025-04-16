@@ -1,0 +1,5 @@
+C:\Users\Honza\Source\Repos\PIRMS_Projekt\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Users\Honza\Source\Repos\PIRMS_Projekt\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\Honza\Source\Repos\PIRMS_Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Honza\Source\Repos\PIRMS_Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Honza\Source\Repos\PIRMS_Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
