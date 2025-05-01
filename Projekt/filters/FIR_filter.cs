@@ -25,7 +25,7 @@ namespace Projekt.filters
             {
                 double x = n - M;
                 double sinc = x == 0 ? 2 * Math.PI * f : Math.Sin(2 * Math.PI * f * x) / (x * Math.PI);
-                double window = 0.54 - 0.46 * Math.Cos(2 * Math.PI * n / N); // Hammingovo okno
+                double window = 0.54 - 0.46 * Math.Cos(2 * Math.PI * n / N); 
                 h[n] = sinc * window;
             }
 
