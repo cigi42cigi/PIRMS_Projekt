@@ -32,6 +32,7 @@ namespace Projekt.filters
             return h;
         }
 
+
         public double[] Apply(double[] input)
         {
             int N = Coefficients.Length;

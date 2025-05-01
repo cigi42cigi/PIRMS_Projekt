@@ -25,6 +25,7 @@ namespace Projekt.UI
             }
         }
 
+
         public void Plot(double[] x, double[] y, string seriesName)
         {
             var series = chart.Series[0];
