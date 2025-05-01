@@ -37,7 +37,7 @@ namespace Projekt
                 area.AxisY.Title = "Hodnota";
                 area.AxisX.MajorGrid.LineColor = Color.LightGray;
                 area.AxisY.MajorGrid.LineColor = Color.LightGray;
-                area.AxisX.LabelStyle.Font = new Font("Segoe UI", 9);
+                area.AxisX.LabelStyle.Font = new Font("Segoe UI", 9);   
                 area.AxisY.LabelStyle.Font = new Font("Segoe UI", 9);
                 chart1.ChartAreas.Add(area);
 
