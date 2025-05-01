@@ -3,3 +3,8 @@ C:\Users\Honza\Source\Repos\PIRMS_Projekt\Projekt\obj\Debug\Projekt.Form1.resour
 C:\Users\Honza\Source\Repos\PIRMS_Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
 C:\Users\Honza\Source\Repos\PIRMS_Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
 C:\Users\Honza\Source\Repos\PIRMS_Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Honza\Source\Repos\PIRMS_Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Honza\Source\Repos\PIRMS_Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Honza\Source\Repos\PIRMS_Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Honza\Source\Repos\PIRMS_Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Honza\Source\Repos\PIRMS_Projekt\Projekt\obj\Debug\Projekt.pdb
